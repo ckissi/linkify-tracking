@@ -1,6 +1,6 @@
 <?php
 
-namespace PhilipNewcomer\LinkifyTracking;
+namespace ckissi\LinkifyTracking;
 
 class LinkifyTracking
 {
