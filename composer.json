@@ -1,5 +1,5 @@
 {
-    "name": "philipnewcomer/linkify-tracking",
+    "name": "ckissi/linkify-tracking",
     "description": "Linkifies package tracking numbers for DHL, FedEx, UPS, and USPS",
     "type": "library",
     "license": "GPL-3.0",
@@ -7,12 +7,16 @@
         {
             "name": "Philip Newcomer",
             "email": "contact@philipnewcomer.net"
-        }
+        },
+        {
+            "name": "Csaba Kissi",            
+        },
+        
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "PhilipNewcomer\\LinkifyTracking\\": "src"
+            "ckissi\\LinkifyTracking\\": "src"
         }
     }
 }
