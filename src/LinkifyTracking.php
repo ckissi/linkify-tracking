@@ -20,7 +20,7 @@ class LinkifyTracking
         ],
         [
             'label' => 'FedEx',
-            'url' => 'http://www.fedex.com/Tracking?language=english&cntry_code=us&tracknumbers=%s',
+            'url' => 'hhttps://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=%s&language=english&cntry_code=us',
             'regex' => '/\b(((96\d\d|6\d)\d{3} ?\d{4}|96\d{2}|\d{4}) ?\d{4} ?\d{4}( ?\d{3})?)\b/i'
         ],
         [
